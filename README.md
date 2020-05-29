@@ -1,4 +1,4 @@
 # hello-world
-learning github
-trying to learn how this works for City College Robotics Club
-what fun!
+Still learning github
+Still trying to see how this works for City College Robotics Club
+And....still having fun
